@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/collections/bin/Debug/net6.0/collections
+/Users/thatguy/code/C#/collections/bin/Debug/net6.0/collections.deps.json
+/Users/thatguy/code/C#/collections/bin/Debug/net6.0/collections.runtimeconfig.json
+/Users/thatguy/code/C#/collections/bin/Debug/net6.0/collections.dll
+/Users/thatguy/code/C#/collections/bin/Debug/net6.0/collections.pdb
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.AssemblyInfo.cs
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.dll
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/refint/collections.dll
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.pdb
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/collections.genruntimeconfig.cache
+/Users/thatguy/code/C#/collections/obj/Debug/net6.0/ref/collections.dll
